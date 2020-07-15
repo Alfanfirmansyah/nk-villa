@@ -1,0 +1,22 @@
+[26-Feb-2019 03:23:13 UTC] PHP Fatal error:  Class 'Modules' not found in /home/gardabha/public_html/villa/application/controllers/dashboard.php on line 31
+[26-Feb-2019 10:24:58 Asia/Jakarta] PHP Fatal error:  Class 'Modules' not found in /home/gardabha/public_html/villa/application/controllers/dashboard.php on line 32
+[26-Feb-2019 10:25:01 Asia/Jakarta] PHP Fatal error:  Class 'Modules' not found in /home/gardabha/public_html/villa/application/controllers/dashboard.php on line 32
+[26-Feb-2019 10:25:02 Asia/Jakarta] PHP Fatal error:  Class 'Modules' not found in /home/gardabha/public_html/villa/application/controllers/dashboard.php on line 32
+[26-Feb-2019 10:25:02 Asia/Jakarta] PHP Fatal error:  Class 'Modules' not found in /home/gardabha/public_html/villa/application/controllers/dashboard.php on line 32
+[26-Feb-2019 10:25:02 Asia/Jakarta] PHP Fatal error:  Class 'Modules' not found in /home/gardabha/public_html/villa/application/controllers/dashboard.php on line 32
+[26-Feb-2019 10:25:22 Asia/Jakarta] PHP Fatal error:  Class 'Modules' not found in /home/gardabha/public_html/villa/application/controllers/dashboard.php on line 32
+[26-Feb-2019 10:25:52 Asia/Jakarta] PHP Fatal error:  Class 'Modules' not found in /home/gardabha/public_html/villa/application/controllers/dashboard.php on line 32
+[26-Feb-2019 10:28:29 Asia/Jakarta] PHP Fatal error:  Call to a member function get_session() on null in /home/gardabha/public_html/villa/application/controllers/dashboard.php on line 13
+[26-Feb-2019 10:32:53 Asia/Jakarta] PHP Fatal error:  Call to a member function tampil_notif() on null in /home/gardabha/public_html/villa/application/controllers/dashboard.php on line 27
+[21-Apr-2019 05:29:23 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined method Muser::title() in /home/nkvillar/public_html/application/controllers/front.php:12
+Stack trace:
+#0 /home/nkvillar/public_html/system/core/CodeIgniter.php(360): Front->index()
+#1 /home/nkvillar/public_html/index.php(202): require_once('/home/nkvillar/...')
+#2 {main}
+  thrown in /home/nkvillar/public_html/application/controllers/front.php on line 12
+[21-Apr-2019 05:29:37 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined method Muser::title() in /home/nkvillar/public_html/application/controllers/front.php:12
+Stack trace:
+#0 /home/nkvillar/public_html/system/core/CodeIgniter.php(360): Front->index()
+#1 /home/nkvillar/public_html/index.php(202): require_once('/home/nkvillar/...')
+#2 {main}
+  thrown in /home/nkvillar/public_html/application/controllers/front.php on line 12
